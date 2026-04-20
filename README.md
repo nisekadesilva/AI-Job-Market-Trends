@@ -13,8 +13,8 @@ This project was built to answer a simple question
    
 ## <img src="https://cdn.simpleicons.org/chartdotjs/4F46E5" width="20"/>|  Dataset Information
 
-Source -  Kaggle / Public AI Job Market Dataset
-Type - Real-world scraped job postings dataset
+Source -  Kaggle / Public AI Job Market Dataset <br>
+Type - Real-world scraped job postings dataset <br>
 Size - Large-scale dataset (~thousands of records)
 
 <u> Fields Included </u>
