@@ -32,7 +32,7 @@ Fields Included
 <li>Job Posted Year </li>
 <li>Annual maximun Salary (USD)</li> </ul> 
 
-## <img src="https://cdn.simpleicons.org/filter/4F46E5" width="20"/> | 
+## <img src="https://cdn.simpleicons.org/filter/4F46E5" width="20"/> | <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/refresh-cw.svg" width="20"/>
 <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/filter.svg" width="20"/>
 ## What I explored
 
