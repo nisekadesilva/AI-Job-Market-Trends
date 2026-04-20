@@ -11,13 +11,13 @@ This project was built to answer a simple question
 
  _“What does the global AI job market really look like when we connect all the data?_
    
-## <img src="https://cdn.simpleicons.org/chartdotjs/4F46E5" width="20"/>|  Dataset Information
+## <img src="https://cdn.simpleicons.org/chartdotjs/4F46E5" width="20"/> |  Dataset Information
 
 Source -  Kaggle / Public AI Job Market Dataset <br>
 Type - Real-world scraped job postings dataset <br>
 Size - Large-scale dataset (~thousands of records)
 
-<u> Fields Included </u>
+![ Fields Included ]
 <ul> 
 <li>Job Title</li>
 <li>Company Type (Startup / MNC / Research Lab)</li>
