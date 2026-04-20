@@ -17,7 +17,10 @@ Source -  Kaggle / Public AI Job Market Dataset <br>
 Type - Real-world scraped job postings dataset <br>
 Size - Large-scale dataset (~thousands of records)
 
-![ Fields Included ]
+
+Fields Included 
+──────────────
+
 <ul> 
 <li>Job Title</li>
 <li>Company Type (Startup / MNC / Research Lab)</li>
