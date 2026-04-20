@@ -18,17 +18,18 @@ Type - Real-world scraped job postings dataset
 Size - Large-scale dataset (~thousands of records)
 
 <u> Fields Included </u>
-<ul> Job Title
-Company Type (Startup / MNC / Research Lab)
-Industry Sector
-Country
-Work Type (Remote / Hybrid / Onsite)
-Experience Level
-Years of Experience
-Job Posted Year 
-Annual maximun Salary (USD) </ul> 
+<ul> 
+<li>Job Title</li>
+<li>Company Type (Startup / MNC / Research Lab)</li>
+<li>Industry Sector</li> 
+<li>Country</li>
+<li>Work Type (Remote / Hybrid / Onsite)</li>
+<li>Experience Level</li>
+<li>Years of Experience</li>
+<li>Job Posted Year </li>
+<li>Annual maximun Salary (USD)</li> </ul> 
 
-<img src="https://cdn.jsdelivr.net/gh/lucide-icons/lucide/icons/broom.svg" width="40"/> | 
+## <img src="https://cdn.simpleicons.org/gear/4F46E5" width="40"/> | 
 
 ## What I explored
 
