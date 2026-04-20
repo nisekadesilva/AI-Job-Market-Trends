@@ -42,5 +42,5 @@ Fields Included
 - How is remote work distributed globally?
 - What experience level dominates high-paying roles?
 
-
+<img src="https://cdn.simpleicons.org/redux/4F46E5" width="20"/>
 
