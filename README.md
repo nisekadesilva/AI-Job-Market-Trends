@@ -73,10 +73,23 @@ Step 4 | Feature Preparation   ────── <br>
   
 Step 5 | KPI Creation (DAX)   ────── <br>
 
- 
+   Total Jobs = COUNTROWS(AI_Jobs)
 
-Remote % = 
-DIVIDE([Remote Jobs], [Total Jobs])
+   Avg Salary = AVERAGE(AI_Jobs[Salary])
+
+   Max Salary = MAX(AI_Jobs[Salary])
+
+   Remote Jobs = 
+   CALCULATE(COUNTROWS(AI_Jobs), AI_Jobs[Work Type] = "Remote")
+
+   Remote % = 
+   DIVIDE([Remote Jobs], [Total Jobs])
+
+<b>Total Jobs</b> → <code>COUNTROWS(AI_Jobs)</code><br>
+<b>Avg Salary</b> → <code>AVERAGE(AI_Jobs[Salary])</code><br>
+<b>Max Salary</b> → <code>MAX(AI_Jobs[Salary])</code><br>
+<b>Remote Jobs</b> → <code>CALCULATE(COUNTROWS(AI_Jobs), AI_Jobs[Work Type] = "Remote")</code><br>
+<b>Remote %</b> → <code>DIVIDE([Remote Jobs], [Total Jobs])</code>
 
 Dashboard Story
 
