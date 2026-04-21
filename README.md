@@ -15,7 +15,17 @@ But while everyone talks about AI replacing jobs, very few understand how the jo
 
 This project answers those questions by turning raw job posting data into a clear, insight-driven story.
 
-<b> Goal</b> <i> Understand how salary, demand, and work structure are shaping AI careers globally.</i>
+<b> Goal</b> - <i> Understand how salary, demand, and work structure are shaping AI careers globally.</i>
+
+# How I Approached This Problem
+
+Instead of jumping straight into charts, I followed a structured data analysis workflow:
+
+  -Explored and understood the dataset
+  -Validated data quality (duplicates, missing values)
+  -Cleaned and standardized the data
+  -Built analytical KPIs using DAX
+  -Designed a dashboard focused on storytelling
    
 ## <img src="https://cdn.simpleicons.org/chartdotjs/4F46E5" width="20"/> |  Dataset Information
 
@@ -40,16 +50,29 @@ Fields Included
 
 ## <img src="https://cdn.simpleicons.org/redux/4F46E5" width="20"/> | Data Preparation
 
-1.Before any cleaning, I explored the dataset structure <br>
-   Checked column types (text, numeric, boolean)
-   Reviewed sample rows to understand patterns
-   Identified key fields: Job Title, Salary, Country, Experience Level, Work Type
+Data preparation was treated as a data quality investigation process:
 
-2.I first checked for duplicate job records using the unique job identifier.
-   No significant duplicate job postings were found
-   Dataset was reliable for aggregation-based analysis
+Step 1 | Data Validation ──────────────
+  Checked for duplicate job entries → none affecting analysis
+  Verified missing values in key fields → no critical nulls found
+  
+Step 2 | Standardization ──────────────
+  Renamed columns for clarity
+  <i> Example: annual_salary_usd → Salary (USD) </i>
+  Standardized categories (Remote, Hybrid, Onsite) 
 
-3.
+Step 3 | Data Type Fixing
+  Salary → Decimal Number
+  Experience → Whole Number
+  Categories → Text
+
+Step 4 | Feature Preparation
+  Cleaned inconsistent labels
+  Ensured uniform country and industry names
+  
+Step 5 | KPI Creation (DAX)
+
+Total Jobs = COUNTROWS(AI
 
 
 ## <img src="https://cdn.simpleicons.org/duckduckgo/4F46E5" width="20"/> | What I explored
@@ -61,6 +84,6 @@ Fields Included
 - What experience level dominates high-paying roles?
 
 
-
+<img src="https://cdn.simpleicons.org/toolbox/4F46E5" width="20"/> 
 
 
