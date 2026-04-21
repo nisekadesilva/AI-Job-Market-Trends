@@ -4,12 +4,18 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0052CC?style=for-the-badge)
 
+# Why This Project Matters
 
-The AI industry is growing faster than any other tech domain, but the job market data is fragmented — scattered across countries, industries, and experience levels.
+Artificial Intelligence is rapidly transforming the global job market.
+But while everyone talks about AI replacing jobs, very few understand how the job market is actually evolving.
 
-This project was built to answer a simple question
+  -Which roles are growing?
+  -Who is earning the most?
+  -Is remote work really dominating?
 
- _“What does the global AI job market really look like when we connect all the data?_
+This project answers those questions by turning raw job posting data into a clear, insight-driven story.
+
+<b> Goal</b> <i> Understand how salary, demand, and work structure are shaping AI careers globally.</i>
    
 ## <img src="https://cdn.simpleicons.org/chartdotjs/4F46E5" width="20"/> |  Dataset Information
 
@@ -34,7 +40,16 @@ Fields Included
 
 ## <img src="https://cdn.simpleicons.org/redux/4F46E5" width="20"/> | Data Preparation
 
+1.Before any cleaning, I explored the dataset structure <br>
+   Checked column types (text, numeric, boolean)
+   Reviewed sample rows to understand patterns
+   Identified key fields: Job Title, Salary, Country, Experience Level, Work Type
 
+2.I first checked for duplicate job records using the unique job identifier.
+   No significant duplicate job postings were found
+   Dataset was reliable for aggregation-based analysis
+
+3.
 
 
 ## <img src="https://cdn.simpleicons.org/duckduckgo/4F46E5" width="20"/> | What I explored
@@ -44,6 +59,8 @@ Fields Included
 - Which industries are hiring the most AI talent?
 - How is remote work distributed globally?
 - What experience level dominates high-paying roles?
+
+
 
 
 
