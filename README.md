@@ -55,35 +55,27 @@ Data preparation was treated as a data quality investigation process:
 
 Step 1 | Data Validation ──────  <br>
   Checked for duplicate job entries → none affecting analysis
-  Verified missing values in key fields → no critical nulls found
+  Verified missing values in key fields → no critical nulls found <br>
+  
   
 Step 2 | Standardization ────── <br>
   Renamed columns for clarity
   <i> Example: annual_salary_usd → Salary (USD) </i>
-  Standardized categories (Remote, Hybrid, Onsite) 
+  Standardized categories (Remote, Hybrid, Onsite) <br>
+  
 
 Step 3 | Data Type Fixing  ────── <br>
   Salary → Decimal Number <br>
   Experience → Whole Number <br>
   Categories → Text <br>
+  
 
 Step 4 | Feature Preparation   ────── <br>
   Cleaned inconsistent labels  <br>
-  Ensured uniform country and industry names
+  Ensured uniform country and industry names<br>
+  
   
 Step 5 | KPI Creation (DAX)   ────── <br>
-
-   Total Jobs = COUNTROWS(AI_Jobs)
-
-   Avg Salary = AVERAGE(AI_Jobs[Salary])
-
-   Max Salary = MAX(AI_Jobs[Salary])
-
-   Remote Jobs = 
-   CALCULATE(COUNTROWS(AI_Jobs), AI_Jobs[Work Type] = "Remote")
-
-   Remote % = 
-   DIVIDE([Remote Jobs], [Total Jobs])
 
 <b>Total Jobs</b> → <code>COUNTROWS(AI_Jobs)</code><br>
 <b>Avg Salary</b> → <code>AVERAGE(AI_Jobs[Salary])</code><br>
@@ -91,7 +83,7 @@ Step 5 | KPI Creation (DAX)   ────── <br>
 <b>Remote Jobs</b> → <code>CALCULATE(COUNTROWS(AI_Jobs), AI_Jobs[Work Type] = "Remote")</code><br>
 <b>Remote %</b> → <code>DIVIDE([Remote Jobs], [Total Jobs])</code>
 
-## | Dashboard Story
+## <img src="https://cdn.simpleicons.org/chartdotjs/4F46E5" width="20"/> | Dashboard Story
 
 The dashboard is designed as a 3-part analytical narrative
 
