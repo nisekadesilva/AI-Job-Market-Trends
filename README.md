@@ -6,7 +6,7 @@
 ## <img src="https://cdn.simpleicons.org/readthedocs/4F46E5" width="20"/> | Project Overview 
 
 
- ### Why This Project Matters
+ ### <img src="https://cdn.simpleicons.org/target/4F46E5" width="20"/> | Why This Project Matters
 
 Artificial Intelligence is rapidly transforming the global job market.
 But while everyone talks about AI replacing jobs, very few understand how the job market is actually evolving.
