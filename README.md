@@ -85,16 +85,15 @@ Data preparation was treated as a data quality investigation process:
 <b>Remote Jobs</b> → <code>CALCULATE(COUNTROWS(AI_Jobs), AI_Jobs[Work Type] = "Remote")</code><br>
 <b>Remote %</b> → <code>DIVIDE([Remote Jobs], [Total Jobs])</code> <br>
 
+
 ## <img src="https://cdn.simpleicons.org/chartdotjs/4F46E5" width="20"/> | Dashboard Story
 
 The dashboard is designed as a 3-part analytical narrative
 
-1. Market Overview — Where are the opportunities?
+<b> 1. Market Overview </b> — Where are the opportunities?
    
 <img width="1300" height="736" alt="Screenshot 2026-04-22 045822" src="https://github.com/user-attachments/assets/6189c97d-ca62-45f9-91d8-046fe3b00aed" />
 
-
-![Overview](screenshots/overview.png)
 Highlights
 ──────
 -Total AI job postings
@@ -105,12 +104,12 @@ Highlights
 💡 Insight:
 Gives a global snapshot of AI job demand and scale
 
-🟩 2. Salary Intelligence — Who gets paid the most?
+<b> 2. Salary Intelligence </b> — Who gets paid the most? 
 
-👉 (Insert Salary page screenshot here)
+<img width="1294" height="693" alt="Screenshot 2026-04-22 054905" src="https://github.com/user-attachments/assets/0c8615f8-2633-4ab8-8a3a-dab766f1c844" />
 
-![Salary Analysis](screenshots/salary.png)
-Highlights:
+Highlights
+──────
 Average salary by experience level
 Salary by industry
 Salary by job title
