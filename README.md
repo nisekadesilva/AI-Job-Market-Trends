@@ -3,8 +3,10 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0052CC?style=for-the-badge)
+## <img src="https://cdn.simpleicons.org/readthedocs/4F46E5" width="20"/> | Project Overview 
 
-## Why This Project Matters
+
+ ### Why This Project Matters
 
 Artificial Intelligence is rapidly transforming the global job market.
 But while everyone talks about AI replacing jobs, very few understand how the job market is actually evolving.
@@ -18,7 +20,7 @@ This project answers those questions by turning raw job posting data into a clea
 <b> Goal</b> - <i> Understand how salary, demand, and work structure are shaping AI careers globally.</i>
 
 
-## <img src="https://cdn.simpleicons.org/duckduckgo/4F46E5" width="20"/> |  How I Approached This Problem
+### <img src="https://cdn.simpleicons.org/duckduckgo/4F46E5" width="20"/> |  How I Approached This Problem
 
 Instead of jumping straight into charts, I followed a structured data analysis workflow:
 
@@ -139,5 +141,6 @@ Remote work is important — but not dominant
 
 <img src="https://cdn.simpleicons.org/toolbox/4F46E5" width="20"/> 
 <img src="https://cdn.simpleicons.org/databricks/4F46E5" width="20"/> Key Insights
+<img src="https://cdn.simpleicons.org/grafana/4F46E5" width="20"/> Dashboard
 
 
