@@ -53,29 +53,29 @@ Fields Included
 
 Data preparation was treated as a data quality investigation process:
 
-Step 1 | Data Validation ──────  <br>
-  Checked for duplicate job entries → none affecting analysis
+<b>Step 1 <b>| Data Validation ──────  <br>
+  Checked for duplicate job entries → none affecting analysis <br>
   Verified missing values in key fields → no critical nulls found <br>
   
   
-Step 2 | Standardization ────── <br>
+<b>Step 2 <b>| Standardization ────── <br>
   Renamed columns for clarity
   <i> Example: annual_salary_usd → Salary (USD) </i>
   Standardized categories (Remote, Hybrid, Onsite) <br>
   
 
-Step 3 | Data Type Fixing  ────── <br>
+<b>Step 3 <b>| Data Type Fixing  ────── <br>
   Salary → Decimal Number <br>
   Experience → Whole Number <br>
   Categories → Text <br>
   
 
-Step 4 | Feature Preparation   ────── <br>
+<b>Step 4 <b>| Feature Preparation   ────── <br>
   Cleaned inconsistent labels  <br>
   Ensured uniform country and industry names<br>
   
   
-Step 5 | KPI Creation (DAX)   ────── <br>
+<b>Step 5<b> | KPI Creation (DAX)   ────── <br>
 
 <b>Total Jobs</b> → <code>COUNTROWS(AI_Jobs)</code><br>
 <b>Avg Salary</b> → <code>AVERAGE(AI_Jobs[Salary])</code><br>
