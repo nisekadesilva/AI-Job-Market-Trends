@@ -118,7 +118,7 @@ Salary by country
 💡 Insight:
 Experience level plays a bigger role than location in determining salary
 
-🟨 3. Job Market Structure — How is the workforce evolving?
+<b>3. Job Market Structure </b> — How is the workforce evolving?
 
 👉 (Insert Insights page screenshot here)
 
