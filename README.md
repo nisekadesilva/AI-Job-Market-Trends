@@ -18,7 +18,7 @@ This project answers those questions by turning raw job posting data into a clea
 <b> Goal</b> - <i> Understand how salary, demand, and work structure are shaping AI careers globally.</i>
 
 
-## <img src="https://cdn.simpleicons.org/duckduckgo/4F46E5" width="20"/> | ## How I Approached This Problem
+## <img src="https://cdn.simpleicons.org/duckduckgo/4F46E5" width="20"/> |  How I Approached This Problem
 
 Instead of jumping straight into charts, I followed a structured data analysis workflow:
 
@@ -53,45 +53,44 @@ Fields Included
 
 Data preparation was treated as a data quality investigation process:
 
-<b>Step 1 <b>| Data Validation ──────  <br>
+<b>Step 1 </b>| Data Validation ──────  <br>
   Checked for duplicate job entries → none affecting analysis <br>
-  Verified missing values in key fields → no critical nulls found <br>
+  Verified missing values in key fields → no critical nulls found <br><br>
   
   
-<b>Step 2 <b>| Standardization ────── <br>
+<b>Step 2 </b>| Standardization ────── <br>
   Renamed columns for clarity
   <i> Example: annual_salary_usd → Salary (USD) </i>
-  Standardized categories (Remote, Hybrid, Onsite) <br>
+  Standardized categories (Remote, Hybrid, Onsite) <br><br>
   
 
-<b>Step 3 <b>| Data Type Fixing  ────── <br>
+<b>Step 3 </b>| Data Type Fixing  ────── <br>
   Salary → Decimal Number <br>
   Experience → Whole Number <br>
-  Categories → Text <br>
+  Categories → Text <br><br>
   
 
-<b>Step 4 <b>| Feature Preparation   ────── <br>
+<b>Step 4 </b>| Feature Preparation   ────── <br>
   Cleaned inconsistent labels  <br>
-  Ensured uniform country and industry names<br>
+  Ensured uniform country and industry names<br><br>
   
   
-<b>Step 5<b> | KPI Creation (DAX)   ────── <br>
+<b>Step 5</b> | KPI Creation (DAX)   ────── <br>
 
 <b>Total Jobs</b> → <code>COUNTROWS(AI_Jobs)</code><br>
 <b>Avg Salary</b> → <code>AVERAGE(AI_Jobs[Salary])</code><br>
 <b>Max Salary</b> → <code>MAX(AI_Jobs[Salary])</code><br>
 <b>Remote Jobs</b> → <code>CALCULATE(COUNTROWS(AI_Jobs), AI_Jobs[Work Type] = "Remote")</code><br>
-<b>Remote %</b> → <code>DIVIDE([Remote Jobs], [Total Jobs])</code>
+<b>Remote %</b> → <code>DIVIDE([Remote Jobs], [Total Jobs])</code> <br>
 
 ## <img src="https://cdn.simpleicons.org/chartdotjs/4F46E5" width="20"/> | Dashboard Story
 
 The dashboard is designed as a 3-part analytical narrative
 
-
-
 1. Market Overview — Where are the opportunities?
+   
+<img width="1300" height="736" alt="Screenshot 2026-04-22 045822" src="https://github.com/user-attachments/assets/6189c97d-ca62-45f9-91d8-046fe3b00aed" />
 
-👉 (Insert Overview page screenshot here)
 
 ![Overview](screenshots/overview.png)
 Highlights
