@@ -101,8 +101,11 @@ Highlights
 -Remote job percentage
 -Country-wise job distribution
 
-💡 Insight:
-Gives a global snapshot of AI job demand and scale
+Insight
+──────
+<b> This section provides a global snapshot of AI job demand, highlighting both geographic distribution and how job postings evolve over time.<b> 
+
+<br> <br>
 
 <b> 2. Salary Intelligence </b> — Who gets paid the most? 
 
@@ -110,10 +113,10 @@ Gives a global snapshot of AI job demand and scale
 
 Highlights
 ──────
-Average salary by experience level
-Salary by industry
-Salary by job title
-Salary by country
+-Average salary by experience level
+-Salary by industry
+-Salary by job title
+-Salary by country
 
 💡 Insight:
 Experience level plays a bigger role than location in determining salary
@@ -137,6 +140,12 @@ Onsite: 33.8% (~17K jobs)
 💡 Insight:
 Remote work is important — but not dominant
 
+## <img src="https://cdn.simpleicons.org/git/4F46E5" width="20"/> | Tools & Technologies
+-Power BI
+-DAX (Data Analysis Expressions)
+-Power Query
+-Data Modeling
+-Data Visualization
 
 <img src="https://cdn.simpleicons.org/toolbox/4F46E5" width="20"/> 
 <img src="https://cdn.simpleicons.org/databricks/4F46E5" width="20"/> Key Insights
