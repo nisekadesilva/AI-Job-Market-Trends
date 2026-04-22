@@ -91,7 +91,7 @@ Step 5 | KPI Creation (DAX)   ────── <br>
 <b>Remote Jobs</b> → <code>CALCULATE(COUNTROWS(AI_Jobs), AI_Jobs[Work Type] = "Remote")</code><br>
 <b>Remote %</b> → <code>DIVIDE([Remote Jobs], [Total Jobs])</code>
 
-Dashboard Story
+## | Dashboard Story
 
 The dashboard is designed as a 3-part analytical narrative
 
@@ -102,11 +102,12 @@ The dashboard is designed as a 3-part analytical narrative
 👉 (Insert Overview page screenshot here)
 
 ![Overview](screenshots/overview.png)
-Highlights:
-Total AI job postings
-Maximum salary observed
-Remote job percentage
-Country-wise job distribution
+Highlights
+──────
+-Total AI job postings
+-Maximum salary observed
+-Remote job percentage
+-Country-wise job distribution
 
 💡 Insight:
 Gives a global snapshot of AI job demand and scale
