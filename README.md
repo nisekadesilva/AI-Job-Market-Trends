@@ -28,17 +28,17 @@ Instead of jumping straight into charts, I followed a structured data analysis w
   -Validated data quality (duplicates, missing values) <br>
   -Cleaned and standardized the data <br>
   -Built analytical KPIs using DAX <br>
-  -Designed a dashboard focused on storytelling
+  -Designed a dashboard focused on storytelling<br><br>
    
 ## <img src="https://cdn.simpleicons.org/chartdotjs/4F46E5" width="20"/> |  Dataset Information
 
 Source -  Kaggle / Public AI Job Market Dataset <br>
 Type - Real-world scraped job postings dataset <br>
-Size - Large-scale dataset (~thousands of records)
+Size - Large-scale dataset (~thousands of records)  <br><br>
 
 
-Fields Included 
-──────────────
+Fields Included <br>
+──────────────<br>
 
 <ul> 
 <li>Job Title</li>
@@ -49,7 +49,7 @@ Fields Included
 <li>Experience Level</li>
 <li>Years of Experience</li>
 <li>Job Posted Year </li>
-<li>Annual maximun Salary (USD)</li> </ul> 
+<li>Annual maximun Salary (USD)</li> </ul> <br><br><br>
 
 ## <img src="https://cdn.simpleicons.org/redux/4F46E5" width="20"/> | Data Preparation
 
@@ -83,26 +83,26 @@ Data preparation was treated as a data quality investigation process:
 <b>Avg Salary</b> → <code>AVERAGE(AI_Jobs[Salary])</code><br>
 <b>Max Salary</b> → <code>MAX(AI_Jobs[Salary])</code><br>
 <b>Remote Jobs</b> → <code>CALCULATE(COUNTROWS(AI_Jobs), AI_Jobs[Work Type] = "Remote")</code><br>
-<b>Remote %</b> → <code>DIVIDE([Remote Jobs], [Total Jobs])</code> <br>
+<b>Remote %</b> → <code>DIVIDE([Remote Jobs], [Total Jobs])</code> <br><br><br>
 
 
 ## <img src="https://cdn.simpleicons.org/chartdotjs/4F46E5" width="20"/> | Dashboard Story
 
 The dashboard is designed as a 3-part analytical narrative
 
-<b> 1. Market Overview </b> — Where are the opportunities?
+# <b> 1. Market Overview </b> — Where are the opportunities?
    
 <img width="1300" height="736" alt="Screenshot 2026-04-22 045822" src="https://github.com/user-attachments/assets/6189c97d-ca62-45f9-91d8-046fe3b00aed" />
 
 Highlights <br>
-──────
--Total AI job postings
--Maximum salary observed
--Remote job percentage
--Country-wise job distribution
+────── <br>
+-Total AI job postings<br>
+-Maximum salary observed<br>
+-Remote job percentage<br>
+-Country-wise job distribution<br>
 
 Insight <br>
-──────
+────── <br>
 <b> This section provides a global snapshot of AI job demand, highlighting both geographic distribution and how job postings evolve over time.<b> <br><br><br>
        ---- 1.Geographic Insight ---- <br><br><br>
        The distribution of job postings across countries shows a relatively balanced demand <br> <br>
@@ -121,7 +121,7 @@ Insight <br>
 
 <br> <br>
 
-<b> 2. Salary Intelligence </b> — Who gets paid the most? 
+# <b> 2. Salary Intelligence </b> — Who gets paid the most? 
 
 <img width="1294" height="693" alt="Screenshot 2026-04-22 054905" src="https://github.com/user-attachments/assets/0c8615f8-2633-4ab8-8a3a-dab766f1c844" />
 
@@ -136,18 +136,35 @@ Insight <br>
 ────── <br>
 <b> Experience level plays a bigger role than location in determining salary<b> <br><br><br>
 
-  ---- 1.Geographic Insight ---- <br><br><br>
-       The distribution of job postings across countries shows a relatively balanced demand <br> <br>
-          -The UK records the highest number of job postings (~8452) <br>
-          -The USA shows the lowest (~8274)<br><br>
-       However, the difference between countries is minimal, indicating that,<br>
-       <b> <i> || AI job opportunities are globally distributed rather than concentrated in a single region. </b> </i><br><br><br><br>
-       ---- 2.Time-based Insight ---- <br><br><br>
-       Analyzing job postings over time reveals stable demand with slight fluctuations, <br><br>
-           - 2024 shows the highest number of postings (~7312)<br>
-           - 2023 records the lowest (~7035)<br>
-           - Other years (2020–2026) remain within a similar range (~7100–7200)<br><br>
-   <b> <i> || The AI job market is consistently active, without extreme spikes or drops. </b> </i>
+  ---- 1.Experience Level vs Salary ---- <br><br><br>
+       The data clearly shows a structured salary progression across experience levels. <br> <br>
+          - Entry-level roles start around $75K <br>
+          - Mid-level roles increase significantly to ~$120K <br>
+          - Senior roles reach the highest at ~$150K <br><br>
+       This indicates a strong reward curve for experience, where salaries nearly double from entry to senior level.<br>
+       <b> <i> || AI careers are highly experience-driven and long-term growth in this field is financially rewarding, making skill progression critical.</b> </i><br><br><br><br>
+   ---- 2.Salary by Job Title ---- <br><br><br>
+        When breaking down by roles, <br><br>
+           - Data Analysts and Applied Scientists earn the highest (~$121.4K)<br>
+           - MLOps Engineers earn slightly less (~$120.2K)<br>
+           <br>
+        The gap is small, but still meaningful.<br>   
+   <b> <i> || High-paying roles are not only core AI roles — analytical and research-oriented roles are equally valuable.This challenges the common belief that only ML/AI engineers dominate salaries. </b> </i>
+   ---- 1.Industry Salary Trends ---- <br><br><br>
+        Across industries, salary variation is surprisingly minimal but consistent. <br> <br>
+          - Retail offers the highest average (~$121K)<br>
+          - Tech follows closely (~$120.8K) <br>
+          - Healthcare and Education are slightly lower (~$120.7K) <br><br>
+       The difference is small, but the consistency suggests,<br>
+       <b> <i> || AI skills are universally valued across industries, not just in tech.
+This means professionals are not limited to tech companies — opportunities exist across multiple sectors with competitive pay</b> </i><br><br><br><br>
+   ---- 1.Salary by Country ---- <br><br><br>
+        Geographic differences exist, but are not extreme <br> <br>
+          - Australia leads (~$121.5K) <br>
+          - UK & USA are equal (~$121K) <br>
+          - Canada is slightly lower (~$120.2K) <br><br>
+        The variation is very narrow across countries.<br>
+       <b> <i> || AI has become a globally standardized job market, where compensation is relatively consistent worldwide.</b> </i><br><br><br><br>
 
 <b>3. Job Market Structure </b> — How is the workforce evolving?
 
@@ -177,6 +194,18 @@ Insight <br>
       Although mid-level roles have the highest count, the difference is very small (~100 jobs), suggesting that<br>
    <b> <i> || Demand is relatively balanced across experience levels, with a slight preference for candidates with some experience. </b> </i>
 
+
+   <br><br><br>
+   
+## <img src="https://cdn.simpleicons.org/databricks/4F46E5" width="20"/>  | Final Decision Making
+
+Based on the analysis, organizations should prioritize building a skill-driven workforce strategy, where experience progression is a key driver of salary and value creation. Since salary variation across countries and industries is minimal, companies can confidently adopt global hiring models and leverage remote or hybrid work structures without significant cost differences.
+
+The balanced distribution of work types suggests that a flexible hybrid work environment is the most sustainable approach, rather than relying solely on remote or onsite models. Additionally, investment should not be limited to core AI engineering roles, as analytical and applied roles such as data analysts and applied scientists also demonstrate high value in the market.
+
+From a long-term perspective, organizations should focus on internal talent development and upskilling, enabling entry-level employees to transition into higher-impact roles. The stability of job demand over time further indicates that AI is a mature and consistently growing field, allowing businesses to invest in AI capabilities with confidence.
+
+Overall, decision-making in the AI job market should be guided by skills, adaptability, and flexible work strategies, rather than geographic or industry constraints. <br><br><br>
 ## <img src="https://cdn.simpleicons.org/grafana/4F46E5" width="20"/> | Tools & Technologies
 -Power BI <br>
 -DAX (Data Analysis Expressions)<br>
