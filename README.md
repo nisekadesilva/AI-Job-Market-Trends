@@ -103,13 +103,22 @@ Highlights <br>
 
 Insight <br>
 ──────
-<b> This section provides a global snapshot of AI job demand, highlighting both geographic distribution and how job postings evolve over time.<b> <br>
-       ---- Geographic Insight ---- <br>
+<b> This section provides a global snapshot of AI job demand, highlighting both geographic distribution and how job postings evolve over time.<b> <br><br><br>
+       ---- 1.Geographic Insight ---- <br><br><br>
        The distribution of job postings across countries shows a relatively balanced demand <br>
           -The UK records the highest number of job postings (~8452) <br>
           -The USA shows the lowest (~8274)<br>
           However, the difference between countries is minimal, indicating that,<br>
-               <b> <i> || AI job opportunities are globally distributed rather than concentrated in a single region </b> </i>
+               <b> <i> || AI job opportunities are globally distributed rather than concentrated in a single region </b> </i><br><br><br><br>
+                  ---- 2.Time-based Insight ---- <br><br><br>
+       The distribution of job postings across countries shows a relatively balanced demand <br>
+          -The UK records the highest number of job postings (~8452) <br>
+          -The USA shows the lowest (~8274)<br>
+          However, the difference between countries is minimal, indicating that,<br>
+               <b> <i> || AI job opportunities are globally distributed rather than concentrated in a single region </b> </i><br>
+
+
+               
 
 <br> <br>
 
@@ -117,12 +126,12 @@ Insight <br>
 
 <img width="1294" height="693" alt="Screenshot 2026-04-22 054905" src="https://github.com/user-attachments/assets/0c8615f8-2633-4ab8-8a3a-dab766f1c844" />
 
-Highlights
+Highlights <br>
 ──────
--Average salary by experience level
--Salary by industry
--Salary by job title
--Salary by country
+-Average salary by experience level<br>
+-Salary by industry<br>
+-Salary by job title<br>
+-Salary by country<br>
 
 Insight
 Experience level plays a bigger role than location in determining salary
@@ -131,11 +140,11 @@ Experience level plays a bigger role than location in determining salary
 
 <img width="1116" height="591" alt="Screenshot 2026-04-22 045556" src="https://github.com/user-attachments/assets/8a23683e-7e12-4790-9ac5-fabb9273b887" />
 
-Highlights
+Highlights<br>
 ──────
--Industry demand
--Work type distribution
--Experience level distribution
+-Industry demand <br>
+-Work type distribution<br>
+-Experience level distribution<br>
 
 📌 Key Finding:
 
@@ -147,11 +156,11 @@ Onsite: 33.8% (~17K jobs)
 Remote work is important — but not dominant
 
 ## <img src="https://cdn.simpleicons.org/grafana/4F46E5" width="20"/> | Tools & Technologies
--Power BI
--DAX (Data Analysis Expressions)
--Power Query
--Data Modeling
--Data Visualization
+-Power BI <br>
+-DAX (Data Analysis Expressions)<br>
+-Power Query<br>
+-Data Modeling<br>
+-Data Visualization<br>
 
 <img src="https://cdn.simpleicons.org/toolbox/4F46E5" width="20"/> 
 <img src="https://cdn.simpleicons.org/databricks/4F46E5" width="20"/> Key Insights
