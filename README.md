@@ -123,13 +123,13 @@ Experience level plays a bigger role than location in determining salary
 
 <b>3. Job Market Structure </b> — How is the workforce evolving?
 
-👉 (Insert Insights page screenshot here)
+<img width="1116" height="591" alt="Screenshot 2026-04-22 045556" src="https://github.com/user-attachments/assets/8a23683e-7e12-4790-9ac5-fabb9273b887" />
 
-![Job Market Insights](screenshots/insights.png)
-Highlights:
-Industry demand
-Work type distribution
-Experience level distribution
+Highlights
+──────
+-Industry demand
+-Work type distribution
+-Experience level distribution
 
 📌 Key Finding:
 
