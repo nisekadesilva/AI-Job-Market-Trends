@@ -139,15 +139,15 @@ Insight <br>
   ---- 1.Experience Level vs Salary ---- <br><br><br>
        The data clearly shows a structured salary progression across experience levels. <br> <br>
           - Entry-level roles start around $75K <br>
-          - Mid-level roles increase significantly to (~$120K) <br>
-          - Senior roles reach the highest at (~$150K) <br><br>
+          - Mid-level roles increase significantly to $120K <br>
+          - Senior roles reach the highest at $150K <br><br>
        This indicates a strong reward curve for experience, where salaries nearly double from entry to senior level.<br>
        <b> <i> || AI careers are highly experience-driven and long-term growth in this field is financially rewarding, making skill progression critical.</b> 
        </i><br><br><br><br>
    ---- 2. Salary by Job Title ---- <br><br><br>
         When breaking down by roles, <br><br>
-           - Data Analysts and Applied Scientists earn the highest (~$121.4K)<br>
-           - MLOps Engineers earn slightly less (~$120.2K)<br>
+           - Data Analysts and Applied Scientists earn the highest $121.4K<br>
+           - MLOps Engineers earn slightly less $120.2K<br>
            <br>
         The gap is small, but still meaningful.<br>   
    <b> <i> || High-paying roles are not only core AI roles — analytical and research-oriented roles are equally valuable.This challenges the common belief that only ML/AI engineers dominate salaries. </b> </i>
@@ -163,7 +163,7 @@ This means professionals are not limited to tech companies — opportunities exi
         Geographic differences exist, but are not extreme <br> <br>
           - Australia leads (~$121.5K) <br>
           - UK & USA are equal (~$121K) <br>
-          - Canada is slightly lower (~$120.2K) <br><br>
+          - Canada is slightly lower (\~$120.2K) <br><br>
         The variation is very narrow across countries.<br>
        <b> <i> || AI has become a globally standardized job market, where compensation is relatively consistent worldwide.</b> </i><br><br><br><br>
 
