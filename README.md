@@ -94,22 +94,21 @@ The dashboard is designed as a 3-part analytical narrative
    
 <img width="1300" height="736" alt="Screenshot 2026-04-22 045822" src="https://github.com/user-attachments/assets/6189c97d-ca62-45f9-91d8-046fe3b00aed" />
 
-Highlights
+Highlights <br>
 ──────
 -Total AI job postings
 -Maximum salary observed
 -Remote job percentage
 -Country-wise job distribution
 
-Insight
+Insight <br>
 ──────
-<b> This section provides a global snapshot of AI job demand, highlighting both geographic distribution and how job postings evolve over time.<b> 
-       ---- Geographic Insight ----
-       The distribution of job postings across countries shows a relatively balanced demand:
-          The UK records the highest number of job postings (~8452)
-          The USA shows the lowest (~8274)
-
-              However, the difference between countries is minimal, indicating that,
+<b> This section provides a global snapshot of AI job demand, highlighting both geographic distribution and how job postings evolve over time.<b> <br>
+       ---- Geographic Insight ---- <br>
+       The distribution of job postings across countries shows a relatively balanced demand <br>
+          -The UK records the highest number of job postings (~8452) <br>
+          -The USA shows the lowest (~8274)<br>
+          However, the difference between countries is minimal, indicating that,<br>
                <b> <i> || AI job opportunities are globally distributed rather than concentrated in a single region </b> </i>
 
 <br> <br>
@@ -147,7 +146,7 @@ Onsite: 33.8% (~17K jobs)
 💡 Insight:
 Remote work is important — but not dominant
 
-## <img src="https://cdn.simpleicons.org/git/4F46E5" width="20"/> | Tools & Technologies
+## <img src="https://cdn.simpleicons.org/grafana/4F46E5" width="20"/> | Tools & Technologies
 -Power BI
 -DAX (Data Analysis Expressions)
 -Power Query
