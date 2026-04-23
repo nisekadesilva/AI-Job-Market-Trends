@@ -138,9 +138,9 @@ Insight <br>
 
   ---- 1.Experience Level vs Salary ---- <br><br><br>
        The data clearly shows a structured salary progression across experience levels. <br> <br>
-          - Entry-level roles start around ~$75K <br>
-          - Mid-level roles increase significantly to ~$120K <br>
-          - Senior roles reach the highest at ~$150K <br><br>
+          - Entry-level roles start around $75K <br>
+          - Mid-level roles increase significantly to (~$120K) <br>
+          - Senior roles reach the highest at (~$150K) <br><br>
        This indicates a strong reward curve for experience, where salaries nearly double from entry to senior level.<br>
        <b> <i> || AI careers are highly experience-driven and long-term growth in this field is financially rewarding, making skill progression critical.</b> 
        </i><br><br><br><br>
