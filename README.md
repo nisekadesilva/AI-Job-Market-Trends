@@ -104,6 +104,13 @@ Highlights
 Insight
 ──────
 <b> This section provides a global snapshot of AI job demand, highlighting both geographic distribution and how job postings evolve over time.<b> 
+       ---- Geographic Insight ----
+       The distribution of job postings across countries shows a relatively balanced demand:
+          The UK records the highest number of job postings (~8452)
+          The USA shows the lowest (~8274)
+
+              However, the difference between countries is minimal, indicating that,
+               <b> <i> || AI job opportunities are globally distributed rather than concentrated in a single region </b> </i>
 
 <br> <br>
 
@@ -118,7 +125,7 @@ Highlights
 -Salary by job title
 -Salary by country
 
-💡 Insight:
+Insight
 Experience level plays a bigger role than location in determining salary
 
 <b>3. Job Market Structure </b> — How is the workforce evolving?
