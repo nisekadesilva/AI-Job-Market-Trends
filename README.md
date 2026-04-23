@@ -139,8 +139,8 @@ Insight <br>
   ---- 1.Experience Level vs Salary ---- <br><br><br>
        The data clearly shows a structured salary progression across experience levels. <br> <br>
           - Entry-level roles start around $75K <br>
-          - Mid-level roles increase significantly to $120K <br>
-          - Senior roles reach the highest at $150K <br><br>
+          - Mid-level roles increase significantly to \~$120K <br>
+          - Senior roles reach the highest at \~$150K <br><br>
        This indicates a strong reward curve for experience, where salaries nearly double from entry to senior level.<br>
        <b> <i> || AI careers are highly experience-driven and long-term growth in this field is financially rewarding, making skill progression critical.</b> 
        </i><br><br><br><br>
@@ -154,15 +154,15 @@ Insight <br>
    ---- 1.Industry Salary Trends ---- <br><br><br>
         Across industries, salary variation is surprisingly minimal but consistent. <br> <br>
           - Retail offers the highest average (~$121K)<br>
-          - Tech follows closely (~$120.8K) <br>
-          - Healthcare and Education are slightly lower (~$120.7K) <br><br>
+          - Tech follows closely (\~$120.8K) <br>
+          - Healthcare and Education are slightly lower (\~$120.7K) <br><br>
        The difference is small, but the consistency suggests,<br>
        <b> <i> || AI skills are universally valued across industries, not just in tech.
 This means professionals are not limited to tech companies — opportunities exist across multiple sectors with competitive pay</b> </i><br><br><br><br>
    ---- 1.Salary by Country ---- <br><br><br>
         Geographic differences exist, but are not extreme <br> <br>
-          - Australia leads (~$121.5K) <br>
-          - UK & USA are equal (~$121K) <br>
+          - Australia leads (\~$121.5K) <br>
+          - UK & USA are equal (\~$121K) <br>
           - Canada is slightly lower (\~$120.2K) <br><br>
         The variation is very narrow across countries.<br>
        <b> <i> || AI has become a globally standardized job market, where compensation is relatively consistent worldwide.</b> </i><br><br><br><br>
@@ -183,16 +183,16 @@ Insight <br>
 <b>This section explores how AI jobs are distributed across work types and experience levels, revealing the structure of the modern AI workforce.<b><br><br><br>
        ---- 1.Work Type Distribution ---- <br><br><br>
        The distribution of work arrangements shows a highly balanced job market, <br> <br>
-          - Hybrid roles: ~33.97% (~17,000 jobs) <br>
-          - Remote roles: ~32.96% (~16,440 jobs) <br>
-          - Onsite roles: ~33.8% (~16,580 jobs)<br><br>
+          - Hybrid roles: ~33.97% (\~17,000 jobs) <br>
+          - Remote roles: ~32.96% (\~16,440 jobs) <br>
+          - Onsite roles: ~33.8% (\~16,580 jobs)<br><br>
        While hybrid roles appear slightly higher, the differences are marginal, indicating that,<br>
        <b> <i> || The AI job market is evenly split across remote, hybrid, and onsite models, rather than being dominated by remote work. </b> </i><br><br><br><br>
        ---- 2.Experience Level Distribution ---- <br><br><br>
       The distribution of jobs across experience levels shows a slight concentration in mid-level roles, <br><br>
            - Mid-level roles: ~16,720 jobs<br>
            - Entry-level roles: ~16,620 jobs <br><br>
-      Although mid-level roles have the highest count, the difference is very small (~100 jobs), suggesting that<br>
+      Although mid-level roles have the highest count, the difference is very small (\~100 jobs), suggesting that<br>
    <b> <i> || Demand is relatively balanced across experience levels, with a slight preference for candidates with some experience. </b> </i>
 
 
