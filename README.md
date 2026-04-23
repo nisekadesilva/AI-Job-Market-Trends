@@ -142,8 +142,9 @@ Insight <br>
           - Mid-level roles increase significantly to ~$120K <br>
           - Senior roles reach the highest at ~$150K <br><br>
        This indicates a strong reward curve for experience, where salaries nearly double from entry to senior level.<br>
-       <b> <i> || AI careers are highly experience-driven and long-term growth in this field is financially rewarding, making skill progression critical.</b> </i><br><br><br><br>
-   ---- 2.Salary by Job Title ---- <br><br><br>
+       <b> <i> || AI careers are highly experience-driven and long-term growth in this field is financially rewarding, making skill progression critical.</b> 
+       </i><br><br><br><br>
+   ---- 2. Salary by Job Title ---- <br><br><br>
         When breaking down by roles, <br><br>
            - Data Analysts and Applied Scientists earn the highest (~$121.4K)<br>
            - MLOps Engineers earn slightly less (~$120.2K)<br>
