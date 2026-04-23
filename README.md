@@ -105,18 +105,17 @@ Insight <br>
 ──────
 <b> This section provides a global snapshot of AI job demand, highlighting both geographic distribution and how job postings evolve over time.<b> <br><br><br>
        ---- 1.Geographic Insight ---- <br><br><br>
-       The distribution of job postings across countries shows a relatively balanced demand <br>
+       The distribution of job postings across countries shows a relatively balanced demand <br> <br>
           -The UK records the highest number of job postings (~8452) <br>
-          -The USA shows the lowest (~8274)<br>
-          However, the difference between countries is minimal, indicating that,<br>
-               <b> <i> || AI job opportunities are globally distributed rather than concentrated in a single region </b> </i><br><br><br><br>
-                  ---- 2.Time-based Insight ---- <br><br><br>
-       The distribution of job postings across countries shows a relatively balanced demand <br>
-          -The UK records the highest number of job postings (~8452) <br>
-          -The USA shows the lowest (~8274)<br>
-          However, the difference between countries is minimal, indicating that,<br>
-               <b> <i> || AI job opportunities are globally distributed rather than concentrated in a single region </b> </i><br>
-
+          -The USA shows the lowest (~8274)<br><br>
+       However, the difference between countries is minimal, indicating that,<br>
+       <b> <i> || AI job opportunities are globally distributed rather than concentrated in a single region. </b> </i><br><br><br><br>
+       ---- 2.Time-based Insight ---- <br><br><br>
+       Analyzing job postings over time reveals stable demand with slight fluctuations, <br><br>
+           - 2024 shows the highest number of postings (~7312)<br>
+           - 2023 records the lowest (~7035)<br>
+           - Other years (2020–2026) remain within a similar range (~7100–7200)<br><br>
+   <b> <i> || The AI job market is consistently active, without extreme spikes or drops. </b> </i>
 
                
 
@@ -127,33 +126,56 @@ Insight <br>
 <img width="1294" height="693" alt="Screenshot 2026-04-22 054905" src="https://github.com/user-attachments/assets/0c8615f8-2633-4ab8-8a3a-dab766f1c844" />
 
 Highlights <br>
-──────
+────── <br>
 -Average salary by experience level<br>
 -Salary by industry<br>
 -Salary by job title<br>
 -Salary by country<br>
 
-Insight
-Experience level plays a bigger role than location in determining salary
+Insight <br>
+────── <br>
+<b> Experience level plays a bigger role than location in determining salary<b> <br><br><br>
+
+  ---- 1.Geographic Insight ---- <br><br><br>
+       The distribution of job postings across countries shows a relatively balanced demand <br> <br>
+          -The UK records the highest number of job postings (~8452) <br>
+          -The USA shows the lowest (~8274)<br><br>
+       However, the difference between countries is minimal, indicating that,<br>
+       <b> <i> || AI job opportunities are globally distributed rather than concentrated in a single region. </b> </i><br><br><br><br>
+       ---- 2.Time-based Insight ---- <br><br><br>
+       Analyzing job postings over time reveals stable demand with slight fluctuations, <br><br>
+           - 2024 shows the highest number of postings (~7312)<br>
+           - 2023 records the lowest (~7035)<br>
+           - Other years (2020–2026) remain within a similar range (~7100–7200)<br><br>
+   <b> <i> || The AI job market is consistently active, without extreme spikes or drops. </b> </i>
 
 <b>3. Job Market Structure </b> — How is the workforce evolving?
 
 <img width="1116" height="591" alt="Screenshot 2026-04-22 045556" src="https://github.com/user-attachments/assets/8a23683e-7e12-4790-9ac5-fabb9273b887" />
 
 Highlights<br>
-──────
+────── <br>
 -Industry demand <br>
 -Work type distribution<br>
 -Experience level distribution<br>
 
-📌 Key Finding:
 
-Remote: 32.96% (~16K jobs)
-Hybrid: 33.97% (~17K jobs)
-Onsite: 33.8% (~17K jobs)
-
-💡 Insight:
-Remote work is important — but not dominant
+Insight <br>
+──────<br>
+<b>This section explores how AI jobs are distributed across work types and experience levels, revealing the structure of the modern AI workforce.<b><br><br><br>
+       ---- 1.Work Type Distribution ---- <br><br><br>
+       The distribution of work arrangements shows a highly balanced job market, <br> <br>
+          - Hybrid roles: ~33.97% (~17,000 jobs) <br>
+          - Remote roles: ~32.96% (~16,440 jobs) <br>
+          - Onsite roles: ~33.8% (~16,580 jobs)<br><br>
+       While hybrid roles appear slightly higher, the differences are marginal, indicating that,<br>
+       <b> <i> || The AI job market is evenly split across remote, hybrid, and onsite models, rather than being dominated by remote work. </b> </i><br><br><br><br>
+       ---- 2.Experience Level Distribution ---- <br><br><br>
+      The distribution of jobs across experience levels shows a slight concentration in mid-level roles, <br><br>
+           - Mid-level roles: ~16,720 jobs<br>
+           - Entry-level roles: ~16,620 jobs <br><br>
+      Although mid-level roles have the highest count, the difference is very small (~100 jobs), suggesting that<br>
+   <b> <i> || Demand is relatively balanced across experience levels, with a slight preference for candidates with some experience. </b> </i>
 
 ## <img src="https://cdn.simpleicons.org/grafana/4F46E5" width="20"/> | Tools & Technologies
 -Power BI <br>
