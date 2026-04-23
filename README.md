@@ -49,7 +49,7 @@ Fields Included <br>
 <li>Experience Level</li>
 <li>Years of Experience</li>
 <li>Job Posted Year </li>
-<li>Annual maximun Salary (USD)</li> </ul> <br><br><br>
+<li>Annual maximun Salary (USD)</li> </ul> <br><br>
 
 ## <img src="https://cdn.simpleicons.org/redux/4F46E5" width="20"/> | Data Preparation
 
@@ -90,9 +90,9 @@ Data preparation was treated as a data quality investigation process:
 
 The dashboard is designed as a 3-part analytical narrative
 
-# <b> 1. Market Overview </b> — Where are the opportunities?
+## <b> 1. Market Overview </b> — Where are the opportunities?
    
-<img width="1300" height="736" alt="Screenshot 2026-04-22 045822" src="https://github.com/user-attachments/assets/6189c97d-ca62-45f9-91d8-046fe3b00aed" />
+<img width="1300" height="736" alt="Screenshot 2026-04-22 045822" src="https://github.com/user-attachments/assets/6189c97d-ca62-45f9-91d8-046fe3b00aed" /><br><br>
 
 Highlights <br>
 ────── <br>
@@ -121,9 +121,9 @@ Insight <br>
 
 <br> <br>
 
-# <b> 2. Salary Intelligence </b> — Who gets paid the most? 
+## <b> 2. Salary Intelligence </b> — Who gets paid the most? 
 
-<img width="1294" height="693" alt="Screenshot 2026-04-22 054905" src="https://github.com/user-attachments/assets/0c8615f8-2633-4ab8-8a3a-dab766f1c844" />
+<img width="1294" height="693" alt="Screenshot 2026-04-22 054905" src="https://github.com/user-attachments/assets/0c8615f8-2633-4ab8-8a3a-dab766f1c844" /><br><br>
 
 Highlights <br>
 ────── <br>
@@ -168,7 +168,7 @@ This means professionals are not limited to tech companies — opportunities exi
 
 <b>3. Job Market Structure </b> — How is the workforce evolving?
 
-<img width="1116" height="591" alt="Screenshot 2026-04-22 045556" src="https://github.com/user-attachments/assets/8a23683e-7e12-4790-9ac5-fabb9273b887" />
+<img width="1116" height="591" alt="Screenshot 2026-04-22 045556" src="https://github.com/user-attachments/assets/8a23683e-7e12-4790-9ac5-fabb9273b887" /><br><br>
 
 Highlights<br>
 ────── <br>
