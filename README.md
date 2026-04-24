@@ -1,8 +1,8 @@
 # AI Global Job Market Intelligence Dashboard
 **Turning raw job postings into a story of opportunity, pay, and global workforce transformation**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0052CC?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
+![DAX](https://img.shields.io/badge/DAX-0052CC?style=flat)
 ## <img src="https://cdn.simpleicons.org/readthedocs/4F46E5" width="20"/> | Project Overview 
 
 
@@ -214,8 +214,6 @@ Overall, decision-making in the AI job market should be guided by skills, adapta
 -Data Modeling<br>
 -Data Visualization<br>
 
-<img src="https://cdn.simpleicons.org/toolbox/4F46E5" width="20"/> 
-<img src="https://cdn.simpleicons.org/databricks/4F46E5" width="20"/> Key Insights
-<img src="https://cdn.simpleicons.org/grafana/4F46E5" width="20"/> Dashboard
+
 
 
