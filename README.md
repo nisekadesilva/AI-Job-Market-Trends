@@ -1,8 +1,8 @@
 # AI Global Job Market Intelligence Dashboard
 **Turning raw job postings into a story of opportunity, pay, and global workforce transformation**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)
-![DAX](https://img.shields.io/badge/DAX-0052CC?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-0052CC?style=flat-square)
 ## <img src="https://cdn.simpleicons.org/readthedocs/4F46E5" width="20"/> | Project Overview 
 
 
